@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Art space</string>
+    <string name="author1">Карл Павлович Брюллов (1833)</string>
+    <string name="author2">Каземир Северинович Малевич (1915)</string>
+    <string name="author3">Леонардо да Винчи (1503)</string>
+    <string name="title1">Последний день Помпеи</string>
+    <string name="title2">Чёрный супрематический квадрат</string>
+    <string name="title3">Мона Лиза</string>
+</resources>
